@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/olena-turetska/)](https://www.linkedin.com/in/olena-turetska-82126a191/)
-<!-- <br>
-[![Github Icon](https://img.shields.io/github/followers/kisjan4ik?color=pink&label=Follow%40Me&style=social)](https://github.com/kisjan4ik) -->
 <br>
 [My Portfolio](https://kisjan4ik.github.io/React_Portfolio/)
 <br>
