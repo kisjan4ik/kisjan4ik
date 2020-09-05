@@ -26,15 +26,16 @@ Fluent in English and Russian.
 <br><br>
 
 ## Stack 
+<code><img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> 
+<code><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"><br><br></code> 
+<code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+
 <code><img height="30" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> 
-<code><img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"><br><br></code> 
 
 ### Statss
 ![Olena's stats](https://github-readme-stats.vercel.app/api?username=kisjan4ik&show_icons=true)
