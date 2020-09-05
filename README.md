@@ -20,10 +20,9 @@ Self-motivated, solution-oriented Junior Web Developer with broad technical skil
 Fluent in English and Russian.
 <br><br>
 [![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/olena-turetska/)](https://www.linkedin.com/in/olena-turetska-82126a191/)
-<br>
+<br><br>
 [My Portfolio](https://kisjan4ik.github.io/React_Portfolio/)
-<br>
-
+<br><br>
 ### My skills 
 <code><img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
