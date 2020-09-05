@@ -24,7 +24,7 @@ Fluent in English and Russian.
 [My Portfolio](https://kisjan4ik.github.io/React_Portfolio/)
 <br>
 
-## Stack 
+### My skills 
 <code><img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"><br><br></code> 
@@ -36,5 +36,5 @@ Fluent in English and Russian.
 <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg"></code>
 
-### Statss
+
 ![Olena's stats](https://github-readme-stats.vercel.app/api?username=kisjan4ik&show_icons=true)
