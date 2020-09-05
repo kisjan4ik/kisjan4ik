@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/olena-turetska/)](https://www.linkedin.com/in/olena-turetska-82126a191/)
 <br>
-[My Portfolio](https://kisjan4ik.github.io/React_Portfolio/)
+[My Portfolio](https://kisjan4ik.github.io/React_Portfolio/&target=blank)
 <br>
 Self-motivated, solution-oriented Junior Web Developer with broad technical skills and passion for web application development. Excellent team worker and communicator. Open minded with proven ability for multi-tasking, problem solving and meeting deadlines. Dedicated to follow industry and technological trends.
 Fluent in English and Russian.
