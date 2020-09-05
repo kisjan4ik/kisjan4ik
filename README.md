@@ -23,7 +23,7 @@ Fluent in English and Russian.
 <br><br>
 [My Portfolio](https://kisjan4ik.github.io/React_Portfolio/)
 <br>
-### My skills 
+### My skills:
 <code><img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"><br><br></code> 
